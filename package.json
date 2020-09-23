@@ -1,0 +1,22 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "This repo is used for git testing purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushan-silva/test-repo.git"
+  },
+  "author": "Rushan Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushan-silva/test-repo/issues"
+  },
+  "homepage": "https://github.com/rushan-silva/test-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
